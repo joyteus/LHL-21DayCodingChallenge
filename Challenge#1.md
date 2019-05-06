@@ -1,3 +1,5 @@
+**Challenge #1**
+
 You are the captain of the exploratory vessel, the ISS Lighthouse, on a mission to explore the galaxy. 
 Just as you depart the solar system, you encounter a gigantic space bug, which knocks you off course! 
 Now you're lost in space, your radio and navigation are out, and it's up to you to work with your computer to get things going again.
